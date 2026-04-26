@@ -40,19 +40,6 @@ The dashboard is divided into three main sections:
 3. Check Excel files for raw data reference.  
 4. Review screenshots for a quick overview of results.  
 
-## 📷 Screenshots
-
-### pizza overview
-![pizza overview](PIZZAIMAGES/overiew.png)
-
-### deep analysis
-![deep analysis](PIZZAIMAGES/deepanalysis.png)
-
-### excutive
-![excutive](PIZZAIMAGES/executive.png)
-
-
-
 
 ---Pizza-Sales-Data-Analysis/
 │
