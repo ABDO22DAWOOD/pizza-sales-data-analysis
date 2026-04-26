@@ -24,7 +24,7 @@ The dashboard is divided into three main sections:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 - **Excel** → Data cleaning & preparation.  
 - **Power BI** → Dashboard creation & visualization.  
 - **Data Validation** → Ensuring data accuracy before analysis.  
