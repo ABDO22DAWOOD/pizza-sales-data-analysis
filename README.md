@@ -43,7 +43,7 @@ The dashboard is divided into three main sections:
 ## 📷 Screenshots
 
 ### pizza overview
-![pizza overview](PIZZAIMAGES/overview.png)
+![pizza overview](PIZZAIMAGES/overiew.png)
 
 ### deep analysis
 ![deep analysis](PIZZAIMAGES/deepanalysis.png)
