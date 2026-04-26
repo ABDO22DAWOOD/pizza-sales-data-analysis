@@ -50,10 +50,10 @@ The dashboard is divided into three main sections:
 │   └── pizza_sales_dashboard.pbix
 │
 ├── PIZZA IMAGES/              # Screenshots
-│   ├── dashboard_overview.png
-│   ├── revenue_by_category.png
-│   ├── top5_pizza.png
-│   └── customer_patterns.png
+│   ├── overview.png
+│   ├── deep analysis.png
+│   ├── excutive.png
+│  
 │
 └── README.md            # Documentation
 
