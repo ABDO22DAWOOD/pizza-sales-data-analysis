@@ -38,24 +38,23 @@ The dashboard is divided into three main sections:
 1. Download the `.pbix` file and open it in Power BI.  
 2. Use filters (Pizza Size, Category, Date) to explore the dashboards.  
 3. Check Excel files for raw data reference.  
-4. Review screenshots for a quick overview of results.  
+4. Review screenshots for a quick overview of results.
 
 
----Pizza-Sales-Data-Analysis/
+   ## 📂 Project Structure
+Pizza-Sales-Data-Analysis/
 │
-├── PIZZA DATA/                # Excel file(s)
+├── PIZZA DATA/          # Excel file(s)
 │   └── pizza_sales_excel_file.xlsx
 │
-├── PIZZA DASHBOARD/           # Power BI file
+├── PIZZA DASHBOARD/     # Power BI file
 │   └── pizza_sales_dashboard.pbix
 │
-├── PIZZA IMAGES/              # Screenshots
+├── PIZZA IMAGES/        # Screenshots
 │   ├── overview.png
 │   ├── deep analysis.png
-│   ├── excutive.png
-│  
+│   └── excutive.png
 │
 └── README.md            # Documentation
-
 
 
